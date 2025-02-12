@@ -24,3 +24,5 @@ async def on_ready():
 
 # Run the bot with the token
 bot.run(bot_token)
+
+# test
